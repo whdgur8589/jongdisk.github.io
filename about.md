@@ -1,6 +1,6 @@
 ---
 layout: page
-title : About
+title : first1
 permalink: /about/
 ---
 
@@ -144,4 +144,3 @@ tagline: "It's all about perception."
   </div>
 </p>
 </div>
-
