@@ -1,6 +1,7 @@
 ---
 layout: page
-title : first1
+title : TIL
+description : Today I Learned
 permalink: /about/
 ---
 
